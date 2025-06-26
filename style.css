@@ -1,0 +1,19 @@
+/* simple monochrome styling to match your screenshot */
+* {
+  font-family: "Cozette", monospace;
+  font-size: 12px;
+  background: #000000;
+  color: #ffffff;
+}
+
+#clock {
+  padding: 0 10px;
+}
+
+#cpu, #memory, #battery, #network {
+  padding: 0 8px;
+}
+
+#tray {
+  padding: 0 8px;
+}
